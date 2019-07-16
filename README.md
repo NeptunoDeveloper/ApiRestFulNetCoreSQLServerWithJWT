@@ -1,6 +1,6 @@
 # Api RestFul en Net Core 2.2 con BD SQLServer, Entity Framework y Autenticación JWT
 
-Este ejemplo es una api rest con autenticación Json Web Token (JWT) que realiza operaciones crud utilizando entity Framework para mapear la Base de Datos Library en SQL Server. 
+El presente ejemplo es una api restful con autenticación Json Web Token (JWT) que realiza operaciones crud utilizando entity Framework para mapear la Base de Datos Library en SQL Server. 
 
 # Pasos para configurar el proyecto:
 

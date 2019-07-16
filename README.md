@@ -12,5 +12,5 @@ Este ejemplo es una api rest con autenticación Json Web Token (JWT) que realiza
 
 # Comandos útiles:
 
-Dotnet new webapi --> permite crear un nuevo proyecto de web api con una plantilla de ejemplo
-Dotnet run        --> ejecuta el proyecto
+- Dotnet new webapi --> permite crear un nuevo proyecto de web api con una plantilla de ejemplo
+- Dotnet run        --> ejecuta el proyecto
